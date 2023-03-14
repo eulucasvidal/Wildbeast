@@ -4,7 +4,7 @@
 
 [Ver Projeto](https://eulucasvidal.github.io/wildbeast/)
 
-Wildbeast é um projeto criado junto ao curso da Origamid, visando o explorar o uso do CSS Display Grid, aplicando um layout responsivo e flexível para organização elementos.
+Wildbeast é um projeto criado junto ao curso da Origamid, visando explorar o uso do CSS Display Grid, aplicando um layout responsivo e flexível para organização elementos.
 
 ## Layout mobile
 ![Wildbeast-mobile](https://user-images.githubusercontent.com/127450536/224868476-e335e8fc-f032-4df6-be65-0471fa43a452.png)
